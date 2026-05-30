@@ -20,7 +20,7 @@ This project focuses on analyzing FIFA player data using Power BI to gain insigh
 - Data Modeling
 - DAX Measures
 - Data Visualization
-- Drill Through and Bookmarks
+  
 
 ## How to Use
 1. Download the .pbix file from this repository
